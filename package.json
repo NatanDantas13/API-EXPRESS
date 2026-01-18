@@ -5,11 +5,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatanDantas13/API-EXPRESS.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "express": "^5.2.1"
-  }
+  "bugs": {
+    "url": "https://github.com/NatanDantas13/API-EXPRESS/issues"
+  },
+  "homepage": "https://github.com/NatanDantas13/API-EXPRESS#readme",
+  "description": ""
 }
